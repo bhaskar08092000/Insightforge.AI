@@ -1,7 +1,8 @@
 # Insightforge.AI
 Data is the fuel to power apps.
 
-# Plan — GitHub README for InsightForge AI
+![s1](app1.png)
+![s2](app2.png)
 
 ### Planned files for GitHub repo `insightforge-ai`
 1. `app.py` — already built (900+ lines, single-file Streamlit app)
