@@ -3,8 +3,6 @@ Data is the fuel to power apps.
 
 # Plan — GitHub README for InsightForge AI
 
-Since you're in **Plan mode**, I can't create `README.md` in your folder yet. Below is the complete portfolio-ready README draft for review. Once approved, toggle to **Act mode** and I'll write `README.md` + `requirements.txt` + verify `app.py` in one go.
-
 ### Planned files for GitHub repo `insightforge-ai`
 1. `app.py` — already built (900+ lines, single-file Streamlit app)
 2. `requirements.txt` — `streamlit, pandas, numpy, plotly, matplotlib, seaborn, scikit-learn, scipy, openpyxl`
