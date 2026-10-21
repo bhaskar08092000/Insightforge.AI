@@ -10,9 +10,7 @@ Data is the fuel to power apps.
 3. `README.md` — draft below
 4. Optional: `screenshots/` + `.streamlit/config.toml`
 
-### Draft `README.md` — copy/paste ready
 
-```markdown
 # 🔷 InsightForge AI – Data Science & Business Analytics Platform
 
 > Upload any CSV/Excel → clean, explore, analyze, forecast, model, and download insights — no API key, no paid services.
